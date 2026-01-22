@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1706636417 source:c:\users\korisnik\onedrive\radna površina\avanturisticka igra-pajic danis\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
+1706290744 c:\users\korisnik\onedrive\radna površina\avanturisticka igra-pajic danis\include\mape.h
+
+1706636417 source:c:\users\korisnik\onedrive\radna površina\programiranje\avanturisticka igra pajic danis\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
